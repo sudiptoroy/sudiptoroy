@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudiptoroy
 - 👀 I’m interested in iOS development primarily. Also interested in machine learning.
-- 🌱 I’m currently learning Flutter, SwiftUI, Streaming Technologies, WebRTC etc.
+- 🌱 I’m currently learning Combine, SwiftUI, Streaming Technologies, WebRTC etc.
 - 💞️ I’m looking to collaborate on any interesting Projects.
 - 📫 Reach Me: sudiptoroy.cse@gmail.com
 
